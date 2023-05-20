@@ -1,0 +1,6 @@
+video lecture link :- https://drive.google.com/file/d/13gcShWYiuIpioCWBTorc-rBPHe2w_dS2/view?usp=share_link
+
+vs code :- https://code.visualstudio.com/download
+node js :- https://nodejs.org/en
+
+read link :- https://developer.mozilla.org/en-US/docs/Web/JavaScript
